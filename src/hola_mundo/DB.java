@@ -1,7 +1,7 @@
 package hola_mundo;
 
 /**
- *
+ * jejeje
  * @author keno
  */
 public class DB {
